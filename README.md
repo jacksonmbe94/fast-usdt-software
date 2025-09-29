@@ -35,4 +35,4 @@ Features -Instant USDT (Tether) transactions -Secure peer-to-peer payments -Ligh
 
 For more details, support, or partnership inquiries, reach us directly:
 
-Official site: fastflashbitcoins.com Telegram: https://telegram.me/flashsbitcoins WhatsApp: https://wa.me/+447428352969
+Official site:  https://fastflashbitcoins.com Telegram: https://telegram.me/flashsbitcoins WhatsApp: https://wa.me/+447428352969
